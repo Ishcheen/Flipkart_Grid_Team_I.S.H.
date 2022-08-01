@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #35",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "dna": "b067c1323adae4d5053f7c82a8fdb51113866dac",
+  "edition": 35,
+  "date": 1659207613854,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background5"
+    },
+    {
+      "trait_type": "face",
+      "value": "face"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "shoes"
+    },
+    {
+      "trait_type": "pant",
+      "value": "pant25"
+    },
+    {
+      "trait_type": "top",
+      "value": "top14"
+    },
+    {
+      "trait_type": "chest",
+      "value": "chest"
+    },
+    {
+      "trait_type": "hands",
+      "value": "hands"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
